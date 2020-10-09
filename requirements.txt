@@ -1,0 +1,10 @@
+scikit-learn
+matplotlib
+numpy
+beautifulsoup4
+setuptools
+seaborn
+discogs_client
+termcolor
+requests
+pandas

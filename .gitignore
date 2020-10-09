@@ -1,0 +1,7 @@
+venv
+drafts
+.idea
+*.pyc
+lib/temp.csv
+*/*.ipynb_checkpoints
+.ipynb_checkpoints
